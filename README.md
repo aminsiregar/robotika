@@ -1,0 +1,2 @@
+# robotika
+gestur gerakan tangan
